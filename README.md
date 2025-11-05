@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22hey%2CWelcome+here.%22))](https://git.io/typing-svg)
 ##
-> 🔭 I’m currently learning BigData.
+> 🔭 I’m currently learning High Performance Computing.
 > 
 ##
 <a href="https://github.com/anuraghazra/convoychat">
